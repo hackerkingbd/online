@@ -1,0 +1,38 @@
+
+.main_contant {
+    height: 4000px;
+    width: 100%;
+}
+
+
+
+.fblogin img{
+    width: 100%;
+    height: 1248;
+}
+
+.fbprofile img{
+    width: 44px;
+    height: 45px;
+    object-fit: cover;
+    border-radius: 5%;
+    position: relative;
+    bottom: 411px;
+    left: 38px;
+
+}
+
+
+
+.idname h1{
+    font-size: 90%;
+    color: rgb(98 153 243);
+    font-family: sans-serif;
+    position: relative;
+    bottom: 451px;
+    left: 88px;
+    
+}
+
+
+
